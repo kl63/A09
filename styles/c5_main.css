@@ -58,28 +58,13 @@ main {
 	padding-left: 30px;
 }
 main h1 {
-	/*
-    font-size: 150%;
-    padding: .3em 0;
-    border-top-style:solid;
-    border-top-color: #931420;
-    border-top-width: 3px;
-    border-bottom-style: solid;
-    border-bottom-color: #931420;
-    border-bottom-width: 3px;
-
-     */
-	/*extra border*/
 	font-size: 150%;
-	padding: .3em 0;
-	width: 450px;
-	height: 30px;
-	border: 3px double #931420;
-	color: black;
-	text-align:  center;
-	font-weight: bold;
-	border-radius: 25px  25px  25px;
-	box-shadow: 2px 2px 2px 2px black;
+	border: 3px double #800000;
+	box-shadow: 5px 5px;-
+	margin-bottom: .75em;
+	border-radius: 10px;
+	padding: .5em 0 .5em 2em;
+	background-color: white;
 
 
 
